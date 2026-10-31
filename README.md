@@ -1,7 +1,7 @@
 # Homebrew Cask
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/commits/main)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/commits/main) [![License](https://img.shields.io/github/license/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/blob/main/LICENSE) [![Language](https://img.shields.io/github/languages/top/monkey-sking/homebrew-cask?style=flat-square)](https://github.com/monkey-sking/homebrew-cask/search?l=)
 <!-- badges:end -->
 
 _“To install, drag this icon…” no more!_
